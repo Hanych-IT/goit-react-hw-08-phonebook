@@ -4,8 +4,7 @@ export const theme = {
     bold: 700,
   },
   colors: {
-    white: '#ffffff',
+    white: '#9baacf',
     pink: '#D45B78',
-    //lightGrey: '#F3F3F3',
   },
 };
